@@ -19,5 +19,6 @@ function validarTaxi(taxi) {
     }
 }
 
+let resultado = validarTaxi(vehicle);
 
-alert(validarTaxi(vehicle));
+alert(resultado);
